@@ -1,0 +1,25 @@
+    body {
+        text-align: center;
+        background-image: url('static/images/background3.jpg');
+        background-position: center;
+        background-size: cover;
+        border: 2px solid;
+        
+    }
+    .navbar{
+        text-align: right;
+        background-color: #000000;
+        color:rgb(255, 251, 251);
+    }
+
+    a {
+        color: #f1f9f900;
+
+    }
+
+    a:hover {
+        color: #f0f0f000;
+
+      }
+
+
